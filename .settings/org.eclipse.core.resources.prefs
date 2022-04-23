@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//src/main/java/ptithcm/controller/AdminController.java=UTF-8
+encoding//src/main/java/ptithcm/controller/PDFController.java=UTF-8
+encoding//src/main/java/ptithcm/controller/UserController.java=UTF-8
+encoding//src/main/java/ptithcm/entity/CameraPhone.java=UTF-8
+encoding//src/main/java/ptithcm/entity/Phone.java=UTF-8
+encoding//src/main/java/ptithcm/entity/Staff.java=UTF-8
+encoding//src/main/java/ptithcm/pdf/BillConfirmPDFView.java=UTF-8
+encoding//src/main/java/ptithcm/pdf/BillDetailPDFView.java=UTF-8
+encoding//src/main/java/ptithcm/pdf/BillUnconfirmPDFView.java=UTF-8
+encoding//src/main/java/ptithcm/pdf/PhonePDFView.java=UTF-8
+encoding//src/main/java/ptithcm/pdf/StaffPDFView.java=UTF-8
+encoding//src/main/java/ptithcm/ss/FunctionCommon.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/Admin/menu.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/User/Menu/footer.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/User/Menu/header.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/User/home.jsp=UTF-8
